@@ -1,0 +1,10 @@
+{
+  "appId": "com.listadeacoes.app",
+  "appName": "Lista de Ações",
+  "webDir": "dist",
+  "backgroundColor": "#050507",
+  "android": {
+    "backgroundColor": "#050507",
+    "allowMixedContent": true
+  }
+}
